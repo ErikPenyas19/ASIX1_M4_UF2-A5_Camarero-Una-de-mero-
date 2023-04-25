@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@font-face {
+    font-family: "Olivia";
+    src: url('./olivia_6/Olivia.ttf');
+    color: rebeccapurple;
+}
+
+
+body{
+    background-image: url(./img/bckgnd.jpg);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    padding: 5%;
+    font-family: "Olivia";
+}
+ul{
+    text-decoration: none;
+}
+
+.col{
+    border-radius: 30px;
+    padding-top: 13%;
+    font-family: 'Caveat', cursive;
+}
+#col-3{
+    background-image: url(./img/menu.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 80vh;
+    color: white;
+}

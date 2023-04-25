@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carta>
+    <plato1>
+      <title>Huevos Estrellados con Jamón Ibérico</title>
+      <ingredientes>
+      </ingredientes>
+    </plato1>
+    <plato1>
+      <title>Paella Mixta</title>
+      <ingredientes>
+      </ingredientes>
+    </plato1>^
+    <plato1>
+      <title>Lasaña de la casa</title>
+      <ingredientes>
+      </ingredientes>
+    </plato1>
+    <plato1>
+      <title>Guiso de alubias blancas con verduras</title>
+      <ingredientes>
+      </ingredientes>
+    </plato1>
+    <plato2>
+      <title>Entrecot de Ternera</title>
+      <ingredientes>
+      </ingredientes>
+    </plato2>
+    <plato2>
+      <title>Rabo de Toro</title>
+      <ingredientes>
+      </ingredientes>
+    </plato2>
+    <plato2>
+      <title>Cordero al Horno</title>
+      <ingredientes >
+      </ingredientes>
+    </plato2>
+    <plato2>
+      <title>Secreto a la parrilla</title>
+      <ingredientes>
+      </ingredientes>
+    </plato2>
+    <bocatasf bocata="f">
+      <title>Jamón y Queso</title>
+      <ingredientes>
+      </ingredientes>
+    </bocatasf>
+    <bocatasc bocata="c">
+      <title>Bacon</title>
+      <ingredientes>
+      </ingredientes>
+    </bocatasc>
+    <bocatasc bocata="c">
+      <title>Bacon con Queso</title>
+      <ingredientes>
+      </ingredientes>
+    </bocatasc>
+    <bocatasf bocata="f">
+      <title>Vegetal Atún</title>
+      <ingredientes>
+      </ingredientes>
+    </bocatasf>
+    <bocatasc bocata="f">
+      <title>Vegetal Pollo</title>
+      <ingredientes>
+      </ingredientes>
+    </bocatasc>
+    <postres>
+      <title>Crema Catalana</title>
+      <ingredientes>
+      </ingredientes>
+    </postres>
+    <postres>
+      <title>Helado</title>
+      <ingredientes>
+      </ingredientes>
+    </postres>
+    <postres>
+      <title>Flan de huevo con Nata</title>
+      <ingredientes>
+      </ingredientes>
+    </postres>
+    <postres>
+      <title>Fruta de Temporada</title>
+      <ingredientes>
+      </ingredientes>
+    </postres>
+    <postres>
+      <title>Pudding</title>
+      <ingredientes>
+      </ingredientes>
+    </postres>    
+</carta>

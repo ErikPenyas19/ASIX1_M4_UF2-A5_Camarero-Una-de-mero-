@@ -15,14 +15,22 @@ h1{
     text-align: center;
     padding: 5%;
     font-family: "Olivia";
+    color: white;
+}
+.tit{
+    height: 15vh;
 }
 ul{
     text-decoration: none;
 }
 
+#div3col{
+    color: white;
+    
+}
+
 .col{
     border-radius: 30px;
-    padding-top: 13%;
     font-family: 'Caveat', cursive;
 }
 #col-3{
@@ -31,6 +39,30 @@ ul{
     background-position: center;
     background-attachment: scroll;
     background-size: cover;
-    height: 80vh;
+    height: 70vh;
     color: white;
+    padding-top: 17vh;
+}
+#col-2{
+    height: 60vh;
+    width: 25vw;
+}
+
+div[id="col-2"]>div{
+    border-radius: 3vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+}
+.col-col2{
+    background-image: url(./img/menu.jpg);
+    margin-bottom: 3vh;
+    height: 40vh;
+    padding-top: 4vh;
+}
+.d-block{
+    height: 30vh;
+    border-radius: 2vh;
+    border: 3px solid black;
 }

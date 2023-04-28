@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <carta>
-    <plato1>
+    <platosx>
       <title>Huevos Estrellados con Jamón Ibérico</title>
-      <ingredientes>
-      </ingredientes>
-    </plato1>
-    <plato1>
+      <descripcion> Precio sin Menú: 8,29€
+      </descripcion>
+    </platosx>
+    <platosx>
       <title>Paella Mixta</title>
-      <ingredientes>
-      </ingredientes>
-    </plato1>^
-    <plato1>
+      <descripcion> Precio sin Menú: 10,69€
+      </descripcion>
+    </platosx>
+    <platosx>
       <title>Lasaña de la casa</title>
-      <ingredientes>
-      </ingredientes>
-    </plato1>
-    <plato1>
+      <descripcion> Precio sin Menú: 7,99€
+      </descripcion>
+    </platosx>
+    <platosx>
       <title>Guiso de alubias blancas con verduras</title>
-      <ingredientes>
-      </ingredientes>
-    </plato1>
-    <plato2>
+      <descripcion> Precio sin Menú: 8,29€
+      </descripcion>
+    </platosx>
+    <platosy>
       <title>Entrecot de Ternera</title>
-      <ingredientes>
-      </ingredientes>
-    </plato2>
-    <plato2>
+      <descripcion> Precio sin Menú: 11,50€
+      </descripcion>
+    </platosy>
+    <platosy>
       <title>Rabo de Toro</title>
-      <ingredientes>
-      </ingredientes>
-    </plato2>
-    <plato2>
-      <title>Cordero al Horno</title>
-      <ingredientes >
-      </ingredientes>
-    </plato2>
-    <plato2>
+      <descripcion> Precio sin Menú: 13,00€
+      </descripcion>
+    </platosy>
+    <platosy>
+      <title>Lenguado Andaluz</title>
+      <descripcion> Precio sin Menú: 14,00€
+      </descripcion>
+    </platosy>
+    <platosy>
       <title>Secreto a la parrilla</title>
-      <ingredientes>
-      </ingredientes>
-    </plato2>
-    <bocatasf bocata="f">
+      <descripcion> Precio sin Menú: 12,99€
+      </descripcion>
+    </platosy>
+    <bocatasf>
       <title>Jamón y Queso</title>
-      <ingredientes>
-      </ingredientes>
+      <descripcion> 
+      </descripcion>
     </bocatasf>
-    <bocatasc bocata="c">
+    <bocatasc>
       <title>Bacon</title>
-      <ingredientes>
-      </ingredientes>
+      <descripcion>
+      </descripcion>
     </bocatasc>
-    <bocatasc bocata="c">
+    <bocatasc>
       <title>Bacon con Queso</title>
-      <ingredientes>
-      </ingredientes>
+      <descripcion>
+      </descripcion>
     </bocatasc>
-    <bocatasf bocata="f">
+    <bocatasf>
       <title>Vegetal Atún</title>
-      <ingredientes>
-      </ingredientes>
+      <descripcion>
+      </descripcion>
     </bocatasf>
-    <bocatasc bocata="f">
+    <bocatasc>
       <title>Vegetal Pollo</title>
-      <ingredientes>
-      </ingredientes>
+      <descripcion>
+      </descripcion>
     </bocatasc>
     <postres>
       <title>Crema Catalana</title>
-      <ingredientes>
-      </ingredientes>
+      <descripcion>Crema pastelera de vainilla, hecha con leche, yemas de huevo, azúcar y maicena.
+      </descripcion>
     </postres>
     <postres>
       <title>Helado</title>
-      <ingredientes>
-      </ingredientes>
+      <descripcion>Helados de vainilla, chocolate, fresa-nata, etc.
+      </descripcion>
     </postres>
     <postres>
       <title>Flan de huevo con Nata</title>
-      <ingredientes>
-      </ingredientes>
+      <descripcion>Postre tradicional hecho con huevos, nata líquida, azúcar, caramelo y un toque de vainilla.
+      </descripcion>
     </postres>
     <postres>
       <title>Fruta de Temporada</title>
-      <ingredientes>
-      </ingredientes>
+      <descripcion> Selección de frutas de Temporada: Sandía, Melón, Piña, etc.
+      </descripcion>
     </postres>
     <postres>
       <title>Pudding</title>
-      <ingredientes>
-      </ingredientes>
+      <descripcion>
+      </descripcion>
     </postres>    
 </carta>

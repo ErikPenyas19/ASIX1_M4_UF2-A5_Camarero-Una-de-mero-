@@ -18,7 +18,7 @@
   }
 ?>
 <div class="tit">
-  <h1>Restaurante Er Moro La Equina</h1>
+  <h1>Restaurante <span>Er Moro La Equina</span></h1>
 </div>
 <div class="container text-center" id="div3col">
   <div class="row align-items-center">
@@ -28,22 +28,24 @@
           echo '<h2>1<sup>ros</sup> Platos</h2>';
           echo '<br>';
             foreach($carta->platosx as $platosx){
-              echo '<p>'.$platosx->title.'-  '.$platosx->descripcion.'</p>';
+              echo '<p>'.$platosx->title.'<span class="desc"> -  '.$platosx->descripcion.'</span></p>';
             }
             echo '</div>';
             echo '<div class="platos">';
             echo '<h2>2<sup>ndos</sup> Platos</h2>';
             echo '</div>';
             foreach($carta->platosy as $platosy){
-              echo '<p>'.$platosy->title.'-  '.$platosy->descripcion.'</p>';
+              echo '<p>'.$platosy->title.'<span class="desc"> -  '.$platosy->descripcion.'</span></p>';
             }
         ?>
     </div>
     <div class="col" id="col-2">
       <div class="col-col2">
         <?php
-        foreach($carta->postres as $platosy){
-          echo '<p>'.$postres->title.'-  '.$postres->descripcion.'</p>';
+        echo '<h2>Postres</h2>';
+        echo '<br>';
+        foreach($carta->postres as $postres){
+          echo '<p>'.$postres->title.'<span class="descpst"> -  '.$postres->descripcion.'</span></p>';
         }
         ?>
       </div>
@@ -71,8 +73,29 @@
         </div>
       </div>
     </div>
-    <div class="col">
-      One of three columns
+    <div class="col" id="col-1">
+      <div class="col-col1">
+      <?php
+      echo '<div class="platos">';
+      echo '<h2>Bocadillos Fríos</h2>';
+      echo '<br>';
+      foreach($carta->bocatasf as $bocatasf){
+      echo '<p>'.$bocatasf->title.'<span class="desc"> -  '.$bocatasf->descripcion.'</span></p>';
+      }
+      echo '</div>';
+      ?>
+      </div>
+      <div class="col2-col1">
+      <?php
+      echo '<div class="platos">';
+      echo '<h2>Bocadillos Calientes</h2>';
+      echo '<br>';
+      foreach($carta->bocatasc as $bocatasc){
+      echo '<p>'.$bocatasc->title.'<span class="desc"> -  '.$bocatasc->descripcion.'</span></p>';
+      }
+      ?>
+      </div>
+    
     </div>
   </div>
 </div>

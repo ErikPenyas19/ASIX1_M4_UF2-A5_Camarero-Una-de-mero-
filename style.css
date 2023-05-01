@@ -9,6 +9,7 @@
 body{
     background-image: url(./img/bckgnd.jpg);
     background-size: cover;
+    font-size: 13px;
 }
 
 h1{
@@ -30,7 +31,6 @@ ul{
 }
 
 .col{
-    border-radius: 30px;
     font-family: 'Caveat', cursive;
 }
 #col-3{
@@ -42,6 +42,7 @@ ul{
     height: 70vh;
     color: white;
     padding-top: 17vh;
+    border-radius: 3vh;
 }
 #col-2{
     height: 60vh;
@@ -56,7 +57,7 @@ div[id="col-2"]>div{
     background-size: cover;
 }
 .col-col2{
-    background-image: url(./img/menu.jpg);
+    background-image: url(./img/postres.png);
     margin-bottom: 3vh;
     height: 40vh;
     padding-top: 4vh;
@@ -65,4 +66,74 @@ div[id="col-2"]>div{
     height: 30vh;
     border-radius: 2vh;
     border: 3px solid black;
+}
+#col-1{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 70vh;
+}
+
+.col-col1{
+    background-image: url(./img/Bocatas.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    margin-bottom: 3vh;
+    height: 35vh;
+    padding-top: 4vh;
+    border-radius: 3vh;
+}
+.col2-col1{
+    background-image: url(./img/Bocatas.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 35vh;
+    padding-top: 4vh;
+    border-radius: 3vh;
+}
+
+@media only screen and (max-width: 780px){
+
+body{
+    background-size: 1300px;
+}
+span{
+    display: none;
+}
+div[id="col-2"]>div{
+    font-size: 0.75rem;
+}
+
+#col-3{
+    font-size: 0.75rem;
+    padding-top: 10vh;
+    height: 10%;
+}
+.d-block{
+    height: 15vh;
+}
+.col-col1{
+    height: 25vh;
+    font-size: 0.75rem;
+}
+.col2-col1{
+    height: 25vh;
+    font-size: 0.75rem;
+}
+}
+
+@media only screen and (max-width: 990px){
+
+
+.descpst{
+    display: none;
+}
+
+
+
 }

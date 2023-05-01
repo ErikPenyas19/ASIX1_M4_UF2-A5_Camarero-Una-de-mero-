@@ -42,27 +42,27 @@
     </platosy>
     <bocatasf>
       <title>Jamón y Queso</title>
-      <descripcion> 
+      <descripcion> 2,20€
       </descripcion>
     </bocatasf>
     <bocatasc>
       <title>Bacon</title>
-      <descripcion>
+      <descripcion> 1,80€
       </descripcion>
     </bocatasc>
     <bocatasc>
       <title>Bacon con Queso</title>
-      <descripcion>
+      <descripcion> 2,70€
       </descripcion>
     </bocatasc>
     <bocatasf>
       <title>Vegetal Atún</title>
-      <descripcion>
+      <descripcion> 2,90€
       </descripcion>
     </bocatasf>
     <bocatasc>
       <title>Vegetal Pollo</title>
-      <descripcion>
+      <descripcion> 3,35€
       </descripcion>
     </bocatasc>
     <postres>
@@ -85,9 +85,4 @@
       <descripcion> Selección de frutas de Temporada: Sandía, Melón, Piña, etc.
       </descripcion>
     </postres>
-    <postres>
-      <title>Pudding</title>
-      <descripcion>
-      </descripcion>
-    </postres>    
 </carta>
